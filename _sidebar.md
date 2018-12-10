@@ -20,6 +20,6 @@
   * [MySQL连接池]()
 
 * 其它
-  * [参与文档编写]()
+  * [参与文档编写](zh-cn/other-edit-join.md)
 
 * [ChangeLog]()
